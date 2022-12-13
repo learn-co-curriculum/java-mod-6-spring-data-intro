@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Define Spring Data.
-- Give an overview of its features and different modules
+- Give an overview of its features and different modules.
 
 ## Introduction
 
@@ -43,7 +43,8 @@ the most common subprojects:
 
 We have learned about Spring Data in this module and the several advantages it
 provides us for interacting with databases. In the next lessons, we will learn
-more about repositories and use them in a sample project.
+more about repositories and use them in a sample project. But first, let's learn
+how we can even connect a database to our Spring applications.
 
 ## References
 
